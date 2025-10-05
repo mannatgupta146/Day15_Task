@@ -3,6 +3,12 @@
 This project is a **Pokémon Card Collection single-page layout**, created as part of the Shreyians Coding School Cohort 2.0.  
 It is built using **HTML and CSS** to practice card layouts, flexbox, gradients, hover effects, and responsive positioning.
 
+## 📸 Screenshot
+
+Here’s how the Pokémon Card Collection webpage looks when opened in a browser:
+
+![Pokémon Cards Screenshot](./images/pokemon.png)  
+
 ## 📌 About the Project
 The task was to design a **product card showcase webpage** that includes:
 
@@ -22,10 +28,8 @@ This project helped me understand:
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5      | Structure and content |
-| CSS3       | Styling, gradients, flexbox, card hover effects |
+- **HTML5** – For structuring the content and layout of the webpage.  
+- **CSS3** – For styling, gradient backgrounds, flexbox layout, and card hover effects.
 
 ## 🚀 Features
 
